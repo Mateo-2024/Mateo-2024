@@ -5,6 +5,7 @@ Descripción: Este proyecto genera contraseñas seguras personalizables en longi
 Objetivos:
 Implementar una herramienta segura para generar contraseñas.
 Facilitar el uso mediante una interfaz básica.
+![image](https://github.com/user-attachments/assets/782bdd7f-e68f-4fb9-9f60-7168c3a0a1bf)
 
 import random
 import string
@@ -45,6 +46,7 @@ def main():
     except ValueError:
         print("Error: Por favor, introduce valores válidos.")
 
-if __name__ == "__main__":
+if __name__ == "__main__":![Uploading image.png…]()
+
     main()
 
